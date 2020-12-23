@@ -4,7 +4,8 @@
 - Leverage data across multiple disciplines
 - I want to develop into Data Engineer
 
-### Interest
+### Project
+- Industrial-academic project whit One_store (2020/08/~2020/09)
 
 
 
