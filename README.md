@@ -5,7 +5,7 @@
 - I want to develop into Data Engineer
 
 ### Project
-- Industrial-academic project whit One_store (2020/08/~2020/09)
+- Industrial-academic project with One_store (2020/08/~2020/09)
 
 
 
