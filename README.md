@@ -1,6 +1,6 @@
 
 
-### Wanna be Data analysist
+### Wanna be Data Scientist
 - Leverage data across multiple disciplines
 - I want to develop into Data Engineer
 
