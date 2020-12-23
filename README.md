@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Wanna be Data Scientist
+
+##Interest
+
+
 <!--
 **gkrqls7633/gkrqls7633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
