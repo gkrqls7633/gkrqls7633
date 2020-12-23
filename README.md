@@ -1,8 +1,10 @@
-### Hi there 👋
 
-## Wanna be Data Scientist
 
-##Interest
+### Wanna be Data Scientist
+- machine learning
+### Interest
+
+
 
 
 <!--
