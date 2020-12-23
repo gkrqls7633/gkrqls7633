@@ -1,7 +1,9 @@
 
 
-### Wanna be Data Scientist
-- machine learning
+### Wanna be Data analysist
+- Leverage data across multiple disciplines
+- I want to develop into Data Engineer
+
 ### Interest
 
 
