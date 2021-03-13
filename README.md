@@ -1,8 +1,8 @@
 
 
-### Wanna be Data Scientist
-- Leverage data across multiple disciplines
-- I want to develop into Data Engineer
+### Data analyst with convergence capabilities
+- Data analyst who can leverage data from multiple disciplines
+- Data analyst who can deliver results correctly
 
 ### Project
 - Industrial-academic project with One_store (2020/08/~2020/09)
