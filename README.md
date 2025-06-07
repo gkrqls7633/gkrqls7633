@@ -10,6 +10,8 @@
 - Personal Project : Comment Analysis of FIFA Online Users(2020/12 ~ 2020/12)
 - Dacon : AI competition to predict user inconvenience due to system quality changes(2021/01/06 ~ 2021/02/07)
 - Personal Project : Development of Soccer Matching System(2024/04/01 ~ )
+- 항해플러스 백엔드 8기 수료(2025.03.22 ~ 2025.06.07)
+
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
