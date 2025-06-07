@@ -1,9 +1,13 @@
 # 👩🏻‍💻 Developer Hakbin
 
+
 안녕하세요! 꾸준히 배우고 성장하는 백엔드 개발자, **Hakbin**입니다.  
 프로젝트를 통해 문제를 해결하는 과정에서 큰 보람을 느끼며,
 효율적이고 안정적인 시스템을 만드는 것에 관심이 많습니다.
 
+---
+
+## About Me...
 [![항해플러스 수료증](https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg)](https://hhpluscertificateofcompletion.oopy.io/)
 
 ---
