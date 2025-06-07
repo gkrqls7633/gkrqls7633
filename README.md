@@ -11,7 +11,9 @@
 - Dacon : AI competition to predict user inconvenience due to system quality changes(2021/01/06 ~ 2021/02/07)
 - Personal Project : Development of Soccer Matching System(2024/04/01 ~ )
 
-
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
+</a>
 
 
 
