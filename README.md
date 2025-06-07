@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Developer Hakbin
 
 안녕하세요! 꾸준히 배우고 성장하는 백엔드 개발자, **Hakbin**입니다.  
-프로젝트를 통해 문제를 해결하는 과정에서 큰 보람을 느끼며,  
+프로젝트를 통해 문제를 해결하는 과정에서 큰 보람을 느끼며,
 효율적이고 안정적인 시스템을 만드는 것에 관심이 많습니다.
 
 [![항해플러스 수료증](https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg)](https://hhpluscertificateofcompletion.oopy.io/)
@@ -34,12 +34,8 @@
 
 ## 📫 Contact
 
-- Email : [your-email@example.com]
-- Blog : [https://your-blog-url](https://your-blog-url)
-- Portfolio : [링크가 있다면 추가]
+- Email : [gkrqls8409@gmail.com]
+- Blog : [https://hak-co.tistory.com/](https://hak-co.tistory.com/)
 
 ---
 
-> “꾸준함은 실력을 만든다.  
-> 작은 프로젝트라도 끝까지 완성하는 개발자가 되겠습니다.”  
-> — Hakbin
