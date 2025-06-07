@@ -15,6 +15,15 @@
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
 </a>
 
+💻 Tech Stack 💻
+![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![js](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrqls7633)](https://github.com/anuraghazra/github-readme-stats)
 
