@@ -1,9 +1,10 @@
 
-<!--
-### Data analyst with convergence capabilities
-- Data analyst who can leverage data from multiple disciplines
-- Data analyst who can deliver results correctly
--->
+👩🏻‍💻 About Me 👩🏻‍💻
+
+Developer Hakbin
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
+</a>
 
 ### Project
 - Industrial-academic project with One_store (2020/08 ~ 2020/09)
@@ -11,9 +12,7 @@
 - Dacon : AI competition to predict user inconvenience due to system quality changes(2021/01/06 ~ 2021/02/07)
 - Personal Project : Development of Soccer Matching System(2024/04/01 ~ )
 - 항해플러스 백엔드 8기 수료(2025.03.22 ~ 2025.06.07)
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
-</a>
+
 
 💻 Tech Stack 💻
 
