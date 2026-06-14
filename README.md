@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Developer Hakbin
 
 
-안녕하세요! 꾸준히 배우고 성장하는 백엔드 개발자, **Hakbin**입니다.  
+Hi, I'm Hakbin Kim, hi
 
 ---
 
