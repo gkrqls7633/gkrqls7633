@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Developer Hakbin
 
 
-Hi, I'm Hakbin Kim, hi
+Hi, I'm Hakbin Kim
 
 ---
 
